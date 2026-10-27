@@ -46,4 +46,5 @@ To reference the database software repository itself:
 
 ---
 *This project contributes to the broader, global engineering effort to build smarter, safer, and more efficient automotive systems.*
+
 This README was written with the help of AI.
