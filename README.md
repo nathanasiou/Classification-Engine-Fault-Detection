@@ -5,15 +5,14 @@ This repository contains the report describing the experimental framework and re
 Accurate fault classification is crucial for identifying which variables are most influential to engine failure. By pinpointing these critical indicators, this project highlights the specific sensor measurements that should be prioritized in onboard diagnostic systems—ultimately helping prevent sudden failures like spontaneous combustion or electrical malfunctions.
 
 ## 🔬 Core Research Question
-The primary academic and practical inquiry driving this repository is:
 > **How do classification models of varying complexity perform across the three analysis tracks (engine-only, gas-only, and combined-with-selection)?**
 
-By investigating this question across distinct sensory domains, this framework thoroughly evaluates historical performance benchmarks and isolates the optimal model architecture based on **accuracy**, **interpretability**, and viability in **real-world world deployments**.
+By investigating this question across distinct sensory domains, this framework thoroughly evaluates historical performance benchmarks and investigates model architecture based on **accuracy**, **interpretability**, and viability in **real-world world deployments**.
 
 ## 🎯 Impact & Contributions
-* **For Manufacturers:** Provides an empirical foundation for optimizing onboard diagnostic sensor layouts, reducing hardware redundancy, and prioritizing high-signal telemetry streams.
-* **For Customers:** Enhances overall vehicle safety and introduces robust predictive maintenance capabilities to drastically reduce unanticipated repair costs.
-* **For Researchers:** Benchmarks a broad spectrum of model granularities to support the development of next-generation, highly reliable vehicle-health monitoring technologies.
+* **For Manufacturers:** Provides an empirical foundation for optimizing onboard diagnostic sensor layout.
+* **For Customers:** Enhances overall vehicle safety and introduces predictive maintenance capabilities to reduce unanticipated repair costs.
+* **For Researchers:** Benchmarks a spectrum of model granularities to support the development of next-generation, reliable vehicle-health monitoring technologies.
 
 ## 📊 Experimental Design (The Three Analysis Tracks)
 The analytics pipeline is structured into three discrete execution paths to isolate the predictive power of different sensor domains:
