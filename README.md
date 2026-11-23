@@ -25,7 +25,8 @@ The analytics pipeline is structured into three discrete execution paths to isol
 ## 📁 Repository Structure
 ```text
 ├── evaluating-variable-subsets-engine-fault-detection.pdf # final report
-└── README.md 
+└── README.md
+└── enginefaultanalysis.ipynb # notebook
 ```
 
 ## 💡 Acknowledgement
